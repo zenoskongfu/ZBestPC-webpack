@@ -1,0 +1,20 @@
+{
+	"name": "zbestpc-webpack",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "webpack"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"webpack": "^5.90.2",
+		"webpack-cli": "^5.1.4"
+	},
+	"dependencies": {
+		"flexslider": "^2.7.2",
+		"jquery": "^3.7.1"
+	}
+}
